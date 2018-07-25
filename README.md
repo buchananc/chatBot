@@ -30,7 +30,7 @@ First, you will need to set up an account through [Trilio](https://www.twilio.co
 
 In one terminal, run ```node server.js```. 
 
-In another treminal run ```ngrok http 8080``` (change the 8080 if needed).
+In another terminal run ```ngrok http 8080``` (change the 8080 if needed).
 
 <br/>
 
