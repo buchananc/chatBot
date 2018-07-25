@@ -14,6 +14,8 @@ After cloning reop, run ```npm init``` and then ```npm i```. You will also need 
 
 **body-parser: ^1.18.3
 <br/>
+dotenv: ^6.0.0,
+<br/>
 express: ^4.16.3
 <br/>
 ngrok: ^3.0.1
