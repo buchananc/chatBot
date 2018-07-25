@@ -13,8 +13,11 @@ After cloning reop, run ```npm init``` and then ```npm i```. You will also need 
 ## Dependencies Used
 
 **body-parser: ^1.18.3
+<br/>
 express: ^4.16.3
+<br/>
 ngrok: ^3.0.1
+<br/>
 twilio: ^3.18.0**
 
 <br/>
@@ -22,7 +25,7 @@ twilio: ^3.18.0**
 First, you will need to set up an account through [Trilio](https://www.twilio.com/) and create an [SMS Chatbot Project](https://www.twilio.com/console/projects/create#). Here is a great tutorial to help you get set up: [Click here!](https://www.youtube.com/watch?v=f9jE5ywz8cs)
 
 <br/>
-## Let's Get Started
+## Getting Started
 In one terminal, run ```node server.js```. 
 
 In another treminal run ```ngrok http 8080``` (change the 8080 if needed).
